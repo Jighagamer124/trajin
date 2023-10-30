@@ -29,5 +29,5 @@ if choice == choicevar:
     pyautogui.tripleClick(30, 500)
     pyautogui.leftClick(63, 500)
 else:
-    #print("GoodBye! Have a Nice Day!")
+    print("GoodBye! Have a Nice Day!")
     exit()
